@@ -1,3 +1,7 @@
+[Telegram](https://t.me/GIFUniversity)
+
+[English (UK)](README.md) | **简体中文（中国大陆）**
+
 # 关于
 
 白嫖怪大学，又名 Get It Free University 或 GIF University ~~或 动图大学~~，是一所位于加拿大不列颠哥伦比亚省素里的虚拟全球综合性大学。  
