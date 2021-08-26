@@ -1,4 +1,5 @@
- **English (UK)** | [简体中文（中国大陆）](README-zh-cn.md)
+[Telegram](https://t.me/GIFUniversity)
+**English (UK)** | [简体中文（中国大陆）](README-zh-cn.md)
 
 # About
 
